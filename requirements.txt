@@ -4,4 +4,3 @@ pydeck
 matplotlib.pyplot
 seaborn
 PIL
-image
