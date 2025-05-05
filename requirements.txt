@@ -1,7 +1,7 @@
 streamlit
 pandas
 pydeck
-matplotlib
+matplotlib.pyplot
 seaborn
 PIL
 image
